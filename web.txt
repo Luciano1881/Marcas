@@ -7,13 +7,13 @@
 <h1>Automatismos Palmeri´s , esta pagina web encontraras información sobre todo los tipos de automatismos en puertas de garanje posibles.</h1>
 <p>En este apartado explicamos los tipos de puertas posibles
   Correderas
-<Img Src="img/corredera.jpg">
+<Img Src="corredera.jpg">
   Batientes
-<Img Src="img/batiente.jpg">
+<Img Src="batiente.jpg">
   Basculantes
-<Img Src="img/basculantes.jpg">
+<Img Src="basculantes.jpg">
   Seccionales
-<Img Src="img/seccional.jpg">
+<Img Src="seccional.jpg">
   Cristaleras
 <Img Src="cristalera.jpg">
  .</p>
