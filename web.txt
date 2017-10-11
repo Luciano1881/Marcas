@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Automatismos Palmeri´s</title>
+<title>Automatismos Palmeri´s</title>
 </head>
 <body>
-  <h1>Automatismos Palmeri´s , esta pagina web encontraras información sobre todo los tipos de automatismos en puertas de garanje posibles.</h1>
-  <p>En este apartado explicamos los tipos de puertas posibles
+<h1>Automatismos Palmeri´s , esta pagina web encontraras información sobre todo los tipos de automatismos en puertas de garanje posibles.</h1>
+<p>En este apartado explicamos los tipos de puertas posibles.</p>
   Correderas
-  <Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/corredera.jpg">
+<Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/corredera.jpg">
   Batientes
-  <Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/batientes.jpg">
+<Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/batientes.jpg">
   Basculantes
-  <Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/basculante.jpg">
+<Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/basculante.jpg">
   Seccionales
-  <Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/seccional.JPG">
+<Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/seccional.JPG">
   Cristaleras
-  <Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/cristalera.jpg>
- .</p>
-  <p>This is another paragraph.</p>
+<Img Src="file:///C:/Users/INTEL%20CORE%20I5%207400/Desktop/web/imagenes%20web/cristalera.jpg>
+
+<p>This is another paragraph.</p>
 </body>
 </html>
