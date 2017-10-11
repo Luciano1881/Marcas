@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Automatismos Palmeri´s</title>
+</head>
+<body>
+  <h1>Automatismos Palmeri´s , esta pagina web encontraras información sobre todo los tipos de automatismos en puertas de garanje posibles.</h1>
+  <p>En este apartado explicamos los tipos de puertas posibles
+  Correderas
+  <Img Src="basculantes.jpg">
+  Batientes
+  <Img Src="batientes.jpg">
+  Basculantes
+  <Img Src="basculantes.jpg">
+  Seccionales
+  <Img Src="seccional.jpg">
+  Cristaleras
+  <Img Src="Cristalera.jpg>
+ 
+  .</p>
+  <p>This is another paragraph.</p>
+</body>
+</html>
